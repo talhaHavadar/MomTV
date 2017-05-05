@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MomTV</string>
+    <string name="action_settings">Settings</string>
+    <string name="on_error">Bir şeyler yanlış gitti tekrar deneyin..</string>
+    <string name="on_error_understand">Ne dediğini anlayamadım.</string>
+    <string name="on_listening">Dinleniyor&#8230;</string>
+    <string name="preference_file_key">com.scorptech.momtv.SETTINGS</string>
+</resources>
